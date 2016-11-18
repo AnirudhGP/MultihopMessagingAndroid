@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_message_row.xml",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\src\\main\\res\\layout\\listview_message_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_peer_row.xml",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\src\\main\\res\\layout\\listview_peer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_request_row.xml",
+        "source": "C:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\src\\main\\res\\layout\\listview_request_row.xml"
+    }
+]

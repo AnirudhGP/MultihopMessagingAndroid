@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aCons">Attempted Connections</string>
+    <string name="appTitle">P2PWifiDirect</string>
+    <string name="app_name">P2PWifiDirect</string>
+    <string name="closeConnections">Close Connections</string>
+    <string name="conPeers">Connected Devices</string>
+    <string name="console">Console Output</string>
+    <string name="deviceName">Enter Device Here</string>
+    <string name="enterRequest">Enter Request File Here</string>
+    <string name="fileHint">Enter file name here</string>
+    <string name="hello">Hello World, P2PWifiDirectActivity!</string>
+    <string name="messageSent">Message Sent</string>
+    <string name="messages">Messages in Message List</string>
+    <string name="peers">Devices In Peer List</string>
+    <string name="requestConsole">File Requests from Peers</string>
+    <string name="resultConsole">Search Results</string>
+    <string name="scan">scan off</string>
+    <string name="startScan">Start Scanning</string>
+    <string name="startSearch">Start Searching</string>
+</resources>

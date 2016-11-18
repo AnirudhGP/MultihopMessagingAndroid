@@ -1,0 +1,7 @@
+#Fri Nov 18 09:37:00 IST 2016
+base.0=C\:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8141cb03082ce589938a21424f26c1a4a160acb8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9ef1634c8e3bb91565d0e48b094074187f0fe9e0\\classes.dex
+base.1=C\:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9ef1634c8e3bb91565d0e48b094074187f0fe9e0
+file.0=C\:\\Users\\aniru\\AndroidStudioProjects\\p2pwifidirect-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8141cb03082ce589938a21424f26c1a4a160acb8\\classes.dex
